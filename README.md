@@ -6,4 +6,11 @@ Colorectal cancer always begins with the appearance of polyps in the colon which
  - ResNet-152
  
  ![comparison table](https://raw.githubusercontent.com/ronaldodave/polyp_detection_retinanet/main/result/result_table.jpg)
+ 
  From the evaluation results, the best model based on the Intersection over Union (IoU) metric is the RetinaNet model (Backbone = ResNet-50) without augmentation data with a value of 0.8415. While the best model based on the Average Precision (AP) metric is RetinaNet (Backbone = ResNet-101) with data augmentation with values ​​AP25 = 0.9308, AP50 = 0.9039, AP75 = 0.6985.
+ 
+## Source
+[Fizyr - keras-retinanet Repository](https://github.com/fizyr/keras-retinanet)
+[Kvasir SEG Dataset](https://github.com/fizyr/keras-retinanet)
+[Etis-Larib Dataset](https://github.com/fizyr/keras-retinanet)
+[CVC ClinicDB Dataset](https://github.com/fizyr/keras-retinanet)
