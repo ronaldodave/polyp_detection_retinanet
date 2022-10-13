@@ -11,6 +11,6 @@ Colorectal cancer always begins with the appearance of polyps in the colon which
  
 ## Source
 [Fizyr - keras-retinanet Repository](https://github.com/fizyr/keras-retinanet)
-[Kvasir SEG Dataset](https://github.com/fizyr/keras-retinanet)
-[Etis-Larib Dataset](https://github.com/fizyr/keras-retinanet)
-[CVC ClinicDB Dataset](https://github.com/fizyr/keras-retinanet)
+[Kvasir SEG Dataset](https://datasets.simula.no/kvasir-seg/)
+[Etis-Larib Dataset](https://polyp.grand-challenge.org/Databases/)
+[CVC ClinicDB Dataset](https://polyp.grand-challenge.org/CVCClinicDB/)
